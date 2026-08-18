@@ -82,4 +82,4 @@ if query:
                     st.write(f"**Sayfa Sayısı:** {meta.get('page_count')}")
                 st.divider()
     else:
-        st.info("Eşleşen sonuç bulunamadı.")
+        st.info("Eşleşen sonuç bulunamadı")
